@@ -3,4 +3,5 @@
     <string name="nominator">Nominator</string>
     <string name="denominator">Denominator</string>
     <string name="reduce_btntext">Reduce</string>
+    <string name="Seperator">----------------------------------------------------------------</string>
 </resources>
